@@ -1,6 +1,7 @@
 # YT Poller — Lightweight YouTube RSS Poller & Viewer
 
 **One line:** A production-ready PHP + client-side project that polls YouTube RSS for a channel, caches results as JSON, and exposes a tiny API + embeddable UI — fast, configurable, and easy to self-host.
+<img width="1851" height="927" alt="image" src="https://github.com/user-attachments/assets/a29b4e7b-ae5d-43e3-aac6-a2eac3e9ec1a" />
 
 ---
 
