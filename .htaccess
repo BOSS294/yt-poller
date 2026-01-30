@@ -1,0 +1,6 @@
+# .htaccess ( OPTIONAL )
+Options -Indexes
+
+<FilesMatch "\.json$">
+    Require all denied
+</FilesMatch>
