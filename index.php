@@ -69,7 +69,7 @@
 
 <script>
 (function(){
-    const apiBase = 'https://yusufahmad.sbs/api/get_videos.php'; 
+    const apiBase = '/api/get_videos.php'; 
     const configPanel = document.getElementById('configPanel');
     const videosGrid = document.getElementById('videosGrid');
     const fab = document.getElementById('settingsFab');
