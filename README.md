@@ -20,9 +20,7 @@
 * [Client embed snippet](#client-embed-snippet)
 * [API reference (short)](#api-reference-short)
 * [Troubleshooting & logs](#troubleshooting--logs)
-* [Deploy UI as GitHub Pages (static) — options & workflow](#deploy-ui-as-github-pages-static---options--workflow)
-* [Recommended hosting for PHP API](#recommended-hosting-for-php-api)
-* [Contributing / License / Contact](#contributing--license--contact)
+
 
 ---
 
